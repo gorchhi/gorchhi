@@ -1,45 +1,51 @@
-# Ogorchukwu 
+# Ogorchukwu Obuzor — Design Engineer
 
-### Frontend Design Engineer
-
-I design and build digital experiences that feel simple, scale cleanly, and ship with care.
+I’m a design engineer who designs interfaces and builds them into polished digital experiences. My work spans clear user journeys, thoughtful interaction, and the details that make products feel right to use.
 
 Based in Nigeria · 4+ years of experience
 
+I build with **Webflow, Framer, Astro, Next.js, React, and React Native**—bringing ideas from first interface sketches to responsive web and mobile products.
+
 [LinkedIn](https://www.linkedin.com/in/ogor-obuzor-54205a16a/) · [GitHub](https://github.com/gorchhi)
 
----
+## GitHub activity
 
-## Selected work
+<p align="center">
+  <a href="https://github.com/gorchhi">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=gorchhi&theme=whatsapp-dark2&border_radius=7"
+      alt="GitHub contribution streak"
+    />
+  </a>
+</p>
+
+## Selected projects
 
 ### [Chromatic Studio](https://chromatic-studio-eta.vercel.app/app/spacing)
-A design system workspace for shaping clear, consistent interfaces. **JavaScript · Live preview**
+A design system workspace for creating and exploring consistent interface foundations.
+**Tech:** JavaScript · React · Design systems
 
 ### Street Racer
-An interactive racing experience, currently private.
+An interactive racing experience built around responsive controls and fast, engaging gameplay. Currently private.
 
 ### [SalesMate](https://github.com/gorchhi/SalesMate)
-A TypeScript sales dashboard with a Twilio webhook integration.
+A sales dashboard that brings customer and sales workflows into one clear interface.
+**Tech:** TypeScript · React · Twilio webhooks
 
 ### Agent Skill Library
-A reusable library of workflows for moving product ideas through discovery, PRDs, and project context. **Private for now**
+A reusable set of workflows that helps turn product ideas into PRDs and project-specific agent context. Currently private.
 
 ### Portfolio
-A monochrome portfolio with animated work previews and a curated resources page. **In progress**
+A personal portfolio in progress, bringing together selected work, design process, and the tools I use.
 
----
+## Tools I reach for
 
-## Design & build
+**Design & prototyping:** Figma · Webflow · Framer · Canva  
+**Web & mobile:** Astro · Next.js · React · React Native · JavaScript · TypeScript  
+**Build & ship:** GitHub · Vercel · Cloudflare · Supabase · Firebase · Resend
 
-**Frontend**  JavaScript · TypeScript · React · Next.js · Vue.js · Node.js
+## Get in touch
 
-**Platforms**  GitHub · Cloudflare · Vercel · Supabase · Firebase · Microsoft Azure · Resend · Google Analytics
+I’m open to thoughtful collaborations and opportunities to design and build useful digital products.
 
-**Design**  Figma · Google AI Studio · Canva
-
-**Daily tools**  OpenCode · Codex · Cursor · Click
-
----
-
-I care about clear user journeys, thoughtful interfaces, and the small details that make digital products feel right to use.
-
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ogor-obuzor-54205a16a/) · [Explore my GitHub](https://github.com/gorchhi)
