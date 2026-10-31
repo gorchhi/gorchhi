@@ -1,10 +1,10 @@
-# Ogorchukwu Obuzor — Design Engineer
+# Ogorchukwu,  Frontend Design Engineer
 
-Design-minded engineer. I move quickly, tinker often, and care about how an interface feels as much as how it works.
+Design-minded engineer. I ship quickly, tinker often, and care about how an interface feels as much as how it works.
 
-I’m Ogorchukwu, a Design Engineer based in Nigeria. My work sits between interface design and frontend development. I take product ideas and shape them into clear, thoughtful experiences, then build them for the web and mobile with Webflow, Framer, Astro, Next.js, React, and React Native.
+I’m Ogor, a Design Engineer based in Nigeria. My work sits between interface design and frontend development. I take product ideas and shape them into clear, thoughtful experiences, then build them.
 
-Over the past 4+ years, I’ve worked on digital products and design systems, with a focus on clear user journeys and the details that make an experience feel considered. This profile is a snapshot of selected work I’ve designed and built.
+Over the past 4+ years, I’ve worked on digital products and design systems, with a focus on clear user journeys and the details that make an experience feel considered. 
 
 I also spend time working with AI coding tools like Codex, OpenCode, and Cursor. They’re part of how I explore ideas, iterate on interfaces, and bring projects to life.
 
